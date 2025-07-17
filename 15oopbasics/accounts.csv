@@ -1,0 +1,4 @@
+accountid,accountname,password,email,phonenum,booksborrowed,accounttype
+1,saad,12345678,saad@gmail.com,23121313412,"[3, 13, 1]",customer
+2,fahad,12345678,fahad@gmail.com,21313213213,[],customer
+3,wajid,12341234,wajid@gmail.com,213131321321,[],librarian

@@ -1,0 +1,16 @@
+bookid,bookname,authorname,genre,stock
+1,1984,George Orwell,Dystopian,4
+2,To Kill a Mockingbird,Harper Lee,Fiction,3
+3,The Great Gatsby,F. Scott Fitzgerald,Classic,3
+4,The Catcher in the Rye,J.D. Salinger,Classic,2
+5,Pride and Prejudice,Jane Austen,Romance,6
+6,Animal Farm,George Orwell,Dystopian,7
+7,Go Set a Watchman,Harper Lee,Fiction,2
+8,Tender Is the Night,F. Scott Fitzgerald,Classic,3
+9,Franny and Zooey,J.D. Salinger,Classic,0
+10,Emma,Jane Austen,Romance,4
+11,Sense and Sensibility,Jane Austen,Romance,5
+12,Brave New World,Aldous Huxley,Dystopian,6
+13,Lord of the Flies,William Golding,Classic,2
+14,Jane Eyre,Charlotte Brontë,Romance,2
+15,Wuthering Heights,Emily Brontë,Romance,0
